@@ -1,5 +1,4 @@
-The Chromium Embedded Framework (CEF) is a simple framework for embedding Chromium-based browsers in other applications.
-
+This is the first open-source contribution
 # Quick Links
 
 * Project Page - https://bitbucket.org/chromiumembedded/cef
